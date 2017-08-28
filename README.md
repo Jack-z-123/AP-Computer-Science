@@ -1,9 +1,13 @@
 Jack Zhang
+
 Period 4
+
 AP Computer Science
+
 Github Assignment #1
 
 Introduction
+
 This assignment is meant to be a warm up so that students can ensure they know how to work with git and so that they can understand how the AP CS problem grader works. We are assigned to write 4 class methods that do what the instruction want it to do.
 
 Specification
@@ -23,9 +27,11 @@ There are 4 class methods in the main file called Intro.java (one class method f
 ***
 ****
 *****
+
 The fourth problem wants us to write a method called coins that returns the minimum number of 5 and 2 in a number; if the number cannot fully break to 2s and 5s return -1.
 
 Major Challenges
+
 The major challenge that I encountered in the process of making code is the fourth problem because I need to find the remainder when the integer n is divided by 5. And it also have different situations to decide. I found out that modular(%) work for finding the remainder and make an if and else if statement for different kinds of situation.
 
 Acknowledgement  
